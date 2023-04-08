@@ -4,3 +4,4 @@ Chatbot that i learn and inspire by [Patrick resp](https://github.com/patrickloe
 I think this is good idea to implement this NLP to Discord chat.
 After fighting with ERROR by the help of ChatGPT.
 I'm done with this project.
+Also check this [resp](https://github.com/Jirayubank/intents_maker). If the intents files you want to make `intents.json` files
